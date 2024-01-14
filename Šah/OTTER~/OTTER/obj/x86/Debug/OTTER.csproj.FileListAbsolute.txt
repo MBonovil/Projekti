@@ -1,0 +1,172 @@
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.xml
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\User\Desktop\FC\IGRA\Projekt\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\User\Desktop\FC\IGRA\Projekt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\User\Desktop\FC\IGRA\Projekt\OTTER\bin\Debug\sprites\elf.png
+C:\Users\User\Desktop\FC\IGRA\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\User\Desktop\FC\IGRA\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\User\Desktop\FC\IGRA\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\User\Desktop\FC\IGRA\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\User\Desktop\FC\IGRA\Projekt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\User\Desktop\FC\IGRA\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\User\Desktop\FC\IGRA\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\User\Desktop\FC\IGRA\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\User\Desktop\FC\IGRA\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FC\IGRA\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\User\Desktop\FC\IGRA\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\User\Desktop\FC\IGRA\Projekt\OTTER\bin\Debug\backgrounds\Bord.jpg
+C:\Users\User\Desktop\FC\IGRA\Projekt\OTTER\bin\Debug\sprites\Bord.png
+C:\Users\User\Desktop\FC\IGRA\Projekt\OTTER\bin\Debug\sprites\lovac.png
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\bin\Debug\backgrounds\Bord.jpg
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\bin\Debug\sprites\Bord.png
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\bin\Debug\sprites\lovac.png
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\bin\Debug\sprites\lovac_b.png
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\bin\Debug\sprites\kralj_b.png
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\bin\Debug\sprites\kralj_c.png
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\bin\Debug\sprites\lovac_c.png
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\bin\Debug\sprites\konj_b.png
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\bin\Debug\sprites\konj_c.png
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\bin\Debug\sprites\kraljica_b.png
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\bin\Debug\sprites\kraljica_c.png
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\bin\Debug\sprites\pijun_b.png
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\bin\Debug\sprites\pijun_c.png
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\bin\Debug\sprites\top_b.png
+C:\Users\Marko Bonovil\Desktop\Projekt\OTTER\bin\Debug\sprites\top_c.png
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\bin\Debug\backgrounds\Bord.jpg
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\bin\Debug\sprites\Bord.png
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\bin\Debug\sprites\elf.png
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\bin\Debug\sprites\konj_b.png
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\bin\Debug\sprites\konj_c.png
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\bin\Debug\sprites\kraljica_b.png
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\bin\Debug\sprites\kraljica_c.png
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\bin\Debug\sprites\kralj_b.png
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\bin\Debug\sprites\kralj_c.png
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\bin\Debug\sprites\lovac.png
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\bin\Debug\sprites\lovac_b.png
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\bin\Debug\sprites\lovac_c.png
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\bin\Debug\sprites\pijun_b.png
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\bin\Debug\sprites\pijun_c.png
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\bin\Debug\sprites\top_b.png
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\bin\Debug\sprites\top_c.png
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.AssemblyReference.cache
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\anajo_000\Downloads\Projekt-20210628T194543Z-001\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\bin\Debug\backgrounds\Bord.jpg
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\bin\Debug\sprites\Bord.png
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\bin\Debug\sprites\konj_b.png
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\bin\Debug\sprites\konj_c.png
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\bin\Debug\sprites\kraljica_b.png
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\bin\Debug\sprites\kraljica_c.png
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\bin\Debug\sprites\kralj_b.png
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\bin\Debug\sprites\kralj_c.png
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\bin\Debug\sprites\lovac.png
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\bin\Debug\sprites\lovac_b.png
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\bin\Debug\sprites\lovac_c.png
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\bin\Debug\sprites\pijun_b.png
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\bin\Debug\sprites\pijun_c.png
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\bin\Debug\sprites\top_b.png
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\bin\Debug\sprites\top_c.png
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\bin\Debug\OTTER.xml
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\bin\Debug\OTTER.exe
+C:\Users\Marko Bonovil\Desktop\Nova mapa (2)\OTTER\bin\Debug\OTTER.pdb
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\bin\Debug\backgrounds\Bord.jpg
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\bin\Debug\sprites\Bord.png
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\bin\Debug\sprites\elf.png
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\bin\Debug\sprites\konj_b.png
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\bin\Debug\sprites\konj_c.png
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\bin\Debug\sprites\kraljica_b.png
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\bin\Debug\sprites\kraljica_c.png
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\bin\Debug\sprites\kralj_b.png
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\bin\Debug\sprites\kralj_c.png
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\bin\Debug\sprites\lovac.png
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\bin\Debug\sprites\lovac_b.png
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\bin\Debug\sprites\lovac_c.png
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\bin\Debug\sprites\pijun_b.png
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\bin\Debug\sprites\pijun_c.png
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\bin\Debug\sprites\top_b.png
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\bin\Debug\sprites\top_c.png
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\bin\Debug\OTTER.xml
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\bin\Debug\OTTER.exe
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\bin\Debug\OTTER.pdb
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\obj\x86\Debug\OTTER.csproj.AssemblyReference.cache
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\anajo_000\Desktop\OTTER~\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\bin\Debug\backgrounds\Bord.jpg
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\bin\Debug\sprites\Bord.png
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\bin\Debug\sprites\konj_b.png
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\bin\Debug\sprites\konj_c.png
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\bin\Debug\sprites\kraljica_b.png
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\bin\Debug\sprites\kraljica_c.png
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\bin\Debug\sprites\kralj_b.png
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\bin\Debug\sprites\kralj_c.png
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\bin\Debug\sprites\lovac.png
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\bin\Debug\sprites\lovac_b.png
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\bin\Debug\sprites\lovac_c.png
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\bin\Debug\sprites\pijun_b.png
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\bin\Debug\sprites\pijun_c.png
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\bin\Debug\sprites\top_b.png
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\bin\Debug\sprites\top_c.png
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\bin\Debug\OTTER.xml
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\bin\Debug\OTTER.exe
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Marko Bonovil\Desktop\OTTER~\OTTER\obj\x86\Debug\OTTER.pdb
