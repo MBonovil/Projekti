@@ -1,0 +1,51 @@
+_id,naziv
+1,Still life (mrtva priroda)
+2,Ekologija i priroda
+3,Surrealizam
+4,Impresionizam
+5,Melankolija
+6,Djeca
+7,Urbani motivi
+8,Moda
+9,Impresionizam
+10,Znanost i tehnologija
+11,Psihologija i unutarnji svijet
+12,Urbani motivi
+13,Ekologija i priroda
+14,Alegorije
+15,Industrijski motivi
+16,Ekologija i priroda
+17,Humor
+18,Glazba
+19,Sloboda
+20,Ples
+21,inkluzija
+22,Sport
+23,Djeca
+24,Pejzaži 
+25,Kultura i tradicija
+26,Aktovi
+27,Ratni motivi
+28,Impresionizam
+29,Snovi
+30,Društvene nepravde
+31,Religiozni motivi
+32,Snovi
+33,Sezonski motivi
+34,Mitološki motivi
+35,Društvene nepravde
+36,Politika i socijalne teme
+37,Hrana i gastronomija
+38,Glazba
+39,Znanost i tehnologija
+40,Snovi
+41,Alegorije
+42,Aktovi
+43,Ekspresionizam
+44,Snovi
+45,Feminizam
+46,Religiozni motivi
+47,Religiozni motivi
+48,Impresionizam
+49,Snovi
+50,Surrealizam

@@ -1,0 +1,41 @@
+--1. Ispisi grada i države za sve umjetnike
+db.b.aggregate([
+  {
+    $lookup: {
+      from: "c",
+      localField: "zip",
+      foreignField: "_id",
+      as: "gradovi"
+    }
+  },
+  {
+    $unwind: "$gradovi"
+  },
+  {
+    $project: {
+      ime: 1,
+      prezime: 1,
+      grad: "$gradovi.grad",
+      drzava: "$gradovi.drzava"
+    }
+  }
+])
+
+--2. Ispis imena i prezimena umjetnika te naslova njegovih umjetničkih dijela
+db.b.aggregate([
+  {
+    $lookup: {
+      from: "d",
+      localField: "_id",
+      foreignField: "u_id",
+      as: "naslovi"
+    }
+  },
+  {
+    $project: {
+      ime: 1,
+      prezime: 1,
+      naslov: "$naslovi.naslov"
+    }
+  }
+])
