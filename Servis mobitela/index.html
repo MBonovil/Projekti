@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PMA - kolokvij</title>
+  <link rel="stylesheet" href="main.css">
+  
+
+
+</head>
+<body>
+  <div class="container">
+    <h1>Servis mobitela</h1>
+    <div class="unos">
+      <h2>Novi zahtjev</h2>
+      <form>
+        <label for="mobitel">Model mobitela:</label>
+        <input type="text" name="mobitel" id="mobitel">
+        <label for="ser_broj">Serijski broj:</label>
+        <input type="number" name="ser_broj" id="ser_broj">
+        <label for="vlasnik">Vlasnik:</label>
+        <input type="text" name="vlasnik" id="vlasnik">
+        <label for="5g">5G model:</label>
+        <input type="checkbox" name="5g" id="5g" value="5g">
+        <div class="kontrole">
+          <button id="postdata">Pošalji</button>
+          <button  id="brisi" onclick="Brisi()">Briši</button>
+        </div>
+        <div id="odgovor">
+          <!-- Ovdje se prikazuje odgovor nakon slanja zahtjeva-->
+        </div>
+      </form>
+    </div>
+    <div class="popis">
+      <h2>Popis zahtjeva</h2>
+      <button id="getdt">Učitaj</button>
+      <div id="rezultat">
+        <!-- Ovdje se prikazuje lista sa popisom zahjteva-->
+      </div>
+    </div>
+  </div>
+  <script src="kol.js"></script>
+</body>
+</html>
