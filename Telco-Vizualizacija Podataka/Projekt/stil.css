@@ -1,0 +1,566 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: system-ui;
+}
+body{
+    min-height: 100vh;
+    background-color: #fff;
+    background-size: cover;
+    background-position: center;
+    
+}
+.container{
+    background: url(telekom.jpeg);
+    background-position: center;
+    background-size: cover;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    
+}
+.container .naslov{
+    font-size: 50px;
+    color: #fff;
+    font-family: system-ui;
+}
+.motivi{
+    backdrop-filter: blur(50px);
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 50px;
+}
+.motivi .slike{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+}
+.motivi .opis{
+    display: flex;
+    justify-content:  space-between;
+    align-items: center;
+    list-style-type: none;
+    font-size: 40px;
+    font-family: 'Times New Roman';
+    padding-left: 30px;
+}
+.motivi .slike #druga{
+    padding-right: 30px;
+}
+.motivi .slike #treca{
+    padding-right: 30px;
+}
+.motivi .slike #prva{
+    padding-right: 30px;
+}
+.motivi .opis #drugi{
+    padding-left: 70px;
+}
+.motivi .opis #treci{
+    padding-left: 50px;
+}
+
+.opis-podataka{
+    background-color: #cce0ff;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 50px;
+    border: 2px solid #340ef6;
+    border-radius: 60px 60px 60px 60px;
+    -webkit-border-radius: 60px 60px 60px 60px;
+    -moz-border-radius: 60px 60px 60px 60px;
+    box-shadow: 17px 19px 11px -11px rgba(0,0,0,0.59);
+    -webkit-box-shadow: 17px 19px 11px -11px rgba(0,0,0,0.59);
+    -moz-box-shadow: 17px 19px 11px -11px rgba(0,0,0,0.59);
+    min-width: 500px;
+}
+.opis-podataka .opis{
+    font-size: 22px;
+    color: black;
+    font-family: system-ui;
+}
+.opis-podataka .opis-naslov{
+    font-size: 38px;
+    color: black;
+    font-family: system-ui;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.viz{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.viz .viz-naslov{
+    font-family: "Fira Sans", sans-serif;
+    font-size: 60px;
+    font-style: normal;
+    color: rgb(128, 223, 255);
+}
+.prva_vizualizacija{
+    background-color: #bde0fe;
+    margin-top: 25px;
+    padding: 100px;
+    width: 100%;
+}
+.prvi_opis{
+    background-color: #cce0ff;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 50px;
+    border: 2px solid #340ef6;
+    border-radius: 100px 100px 100px 100px;
+    -webkit-border-radius: 100px 100px 100px 100px;
+    -moz-border-radius: 100px 100px 100px 100px;
+    box-shadow: 17px 19px 11px -11px rgba(0,0,0,0.59);
+    -webkit-box-shadow: 17px 19px 11px -11px rgba(0,0,0,0.59);
+    -moz-box-shadow: 17px 19px 11px -11px rgba(0,0,0,0.59);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.drugi_opsi{
+    background-color: #cce0ff;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 50px;
+    border: 2px solid #340ef6;
+    border-radius: 100px 100px 100px 100px;
+    -webkit-border-radius: 100px 100px 100px 100px;
+    -moz-border-radius: 100px 100px 100px 100px;
+    box-shadow: 17px 19px 11px -11px rgba(0,0,0,0.59);
+    -webkit-box-shadow: 17px 19px 11px -11px rgba(0,0,0,0.59);
+    -moz-box-shadow: 17px 19px 11px -11px rgba(0,0,0,0.59);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.treci_opis{
+    background-color: #cce0ff;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 50px;
+    border: 2px solid #340ef6;
+    border-radius: 100px 100px 100px 100px;
+    -webkit-border-radius: 100px 100px 100px 100px;
+    -moz-border-radius: 100px 100px 100px 100px;
+    box-shadow: 17px 19px 11px -11px rgba(0,0,0,0.59);
+    -webkit-box-shadow: 17px 19px 11px -11px rgba(0,0,0,0.59);
+    -moz-box-shadow: 17px 19px 11px -11px rgba(0,0,0,0.59);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.cetvrti_opis{
+    background-color: #cce0ff;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 50px;
+    border: 2px solid #340ef6;
+    border-radius: 100px 100px 100px 100px;
+    -webkit-border-radius: 100px 100px 100px 100px;
+    -moz-border-radius: 100px 100px 100px 100px;
+    box-shadow: 17px 19px 11px -11px rgba(0,0,0,0.59);
+    -webkit-box-shadow: 17px 19px 11px -11px rgba(0,0,0,0.59);
+    -moz-box-shadow: 17px 19px 11px -11px rgba(0,0,0,0.59);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.peti_opis{
+    background-color: #cce0ff;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 50px;
+    border: 2px solid #340ef6;
+    border-radius: 100px 100px 100px 100px;
+    -webkit-border-radius: 100px 100px 100px 100px;
+    -moz-border-radius: 100px 100px 100px 100px;
+    box-shadow: 17px 19px 11px -11px rgba(0,0,0,0.59);
+    -webkit-box-shadow: 17px 19px 11px -11px rgba(0,0,0,0.59);
+    -moz-box-shadow: 17px 19px 11px -11px rgba(0,0,0,0.59);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.peta_vizualizacija{
+    background-color: #bde0fe;
+    margin-top: 25px;
+    padding: 100px;
+    width: 100%;
+}
+.cetvrta_vizualizacija{
+    background-color: #bde0fe;
+    margin-top: 25px;
+    padding: 100px;
+    width: 100%;
+}
+.cetvrta_vizualizacija #otkazivanje{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cetvrta_vizualizacija #otkazivanje .churn_reason{
+    order: 1;
+}
+.cetvrta_vizualizacija #otkazivanje .tenure{
+    order: 2;
+}
+.cetvrta_vizualizacija #otkazivanje_razlog{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.cetvrta_vizualizacija #prihod{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+.treca_vizualizacija #usluge{
+    display: flex;
+}
+.treca_vizualizacija #usluge .pogodnosti{
+    order: 1;
+}
+.treca_vizualizacija #usluge .contract{
+    order: 2;
+}
+.treci_opis .opis_tekst{
+    color: black;
+    font-family: system-ui;
+    font-size: 20px;
+
+}
+.treci_opis .opis_v1{
+    font-size: 30px;
+    color: black;
+    font-family: system-ui;
+    margin-bottom: 20px;
+}
+.cetvrti_opis .opis_tekst{
+    color: black;
+    font-family: system-ui;
+    font-size: 20px;
+
+}
+.cetvrti_opis .opis_v1{
+    font-size: 30px;
+    color: black;
+    font-family: system-ui;
+    margin-bottom: 20px;
+}
+.drugi_opsi .opis_tekst{
+    color: black;
+    font-family: system-ui;
+    font-size: 20px;
+
+}
+.drugi_opsi .opis_v1{
+    font-size: 30px;
+    color: black;
+    font-family: system-ui;
+    margin-bottom: 20px;
+}
+.prvi_opis .opis_v1{
+    font-size: 30px;
+    color: black;
+    font-family: system-ui;
+    margin-bottom: 20px;
+}
+.prva_vizualizacija .osnovno {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    order: 2;
+  }
+.prva_vizualizacija #okvir_2{
+    margin-top: 80px;
+}
+.prvi_opis .opis_tekst{
+    color: black;
+    font-family: system-ui;
+    font-size: 20px;
+
+}
+.druga_vizualizacija{
+    background-color: #bde0fe;
+    margin-top: 25px;
+    padding: 100px;
+    width: 100%;
+}
+.druga_vizualizacija #mapa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    
+}
+#legenda
+{
+    text-align: left;
+    padding: 16px;
+    background-color: white;
+    border: 2.5px solid black;
+    width: auto;
+    opacity: 0;
+    color:black;
+    position: absolute;
+}
+.druga_vizualizacija #gradovi {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#grad{
+    font-size: 18px;
+    font-family: 'Times New Roman';
+}
+.treca_vizualizacija{
+    background-color: #bde0fe;
+    margin-top: 25px;
+    padding: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.peta_vizualizacija #okvir_11{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.peta_vizualizacija #okvir_22{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.peta_vizualizacija #okvir_11 .gender{
+    order: 1;
+}
+.peta_vizualizacija #okvir_11 .married{
+    order:2;
+}
+.peta_vizualizacija #okvir_11 .cityCounter{
+    order:3;
+}
+.peta_vizualizacija #okvir_22 .age{
+    order:1;
+}
+.peta_vizualizacija #okvir_22 .cityPie{
+    order:2;
+}
+.peta_vizualizacija #okvir_33{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.peta_vizualizacija #okvir_33 .mapa{
+    order: 3;
+}
+.peta_vizualizacija #okvir_33 .tarife{
+    order: 2;
+}
+.peta_vizualizacija #okvir_33 .ugovori{
+    order: 1;
+}
+.peta_vizualizacija #okvir_44{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 20px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+
+/* Normalize select element */
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    font-size: 16px;
+    color: #333;
+    width:250px;
+}
+  
+  /* Custom arrow icon */
+select::-ms-expand {
+    display: none;
+}
+  
+  /* Style on hover */
+select:hover {
+    border-color: #00ace6;
+}
+  
+  /* Style on focus */
+select:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+}
+  
+  /* Style for options */
+select option {
+    padding: 10px;
+}
+  
+  /* Style for select when it's opened */
+select:focus option:checked {
+    background-color: #007bff;
+    color: #fff;
+}
+  
+  /* Style for select when it's opened and hovering */
+select:focus option:checked:hover {
+    background-color: #0056b3;
+}
+
+.header{
+    background: url(telekom.jpeg) no-repeat;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    padding: 1.3rem 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+
+}
+.header::before{
+    top: 0px;
+    left: 0px;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, .1);
+    backdrop-filter: blur(50px);
+    z-index: -1;
+}
+.logo{
+    font-size: 2rem;
+    color:#fff;
+    text-decoration: none;
+    font-weight: 700;
+}
+.navigacija a{
+    font-size: 1.5rem;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 2.5rem;
+    transition: font-size 60ms;
+}
+.navigacija a:hover{
+    transition: .3s ease;
+    color: #1aa3ff;
+    text-shadow: 0 0 5px #1aa3ff;
+    font-size: 1.7rem;
+}
+
+.icons{
+    position: absolute;
+    font-size: 2.8rem;
+    color: #fff;
+    cursor: pointer;
+    display: none;
+    right: 5%;
+}
+#check{
+    display: none;
+}
+
+@media (max-width:990px) {
+    .header{
+        padding: 1.3rem 5%;
+    }
+    
+}
+@media (max-width:770px) {
+    .icons{
+        display: inline-block;
+    }
+    .icons #x-ikona{
+        display: none;
+    }
+    #check:checked~.icons #menu-ikona{
+        display: none;
+    }
+    #check:checked~.icons #x-ikona{
+        display: block;
+    }
+    .navigacija{
+        position: absolute;
+        top: 100%;
+        left: 0px;
+        width: 100%;
+        height: 0;
+        background: rgba(0, 0, 0, .1);
+        backdrop-filter: blur(50px);
+        box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
+        transition: .3s ease;
+        overflow: hidden;
+    }
+    #check:checked~.navigacija{
+        height: 10rem;
+    }
+    .navigacija a{
+        display: block;
+        font-size: 1.1rem;
+        margin: 1.5rem 0;
+        text-align: center;
+        transform: translateY(-20px);
+        transition: .3s ease;
+    }
+    #check:checked~.navigacija a{
+        transform: translateY(0);
+        transition-delay: calc(.10s * var(--i));
+        opacity: 1;
+    }
+}
+@media (max-width:600px) {
+    .container{
+        width:max-content;
+    }
+}

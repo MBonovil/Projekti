@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="stil.css"></link>
+        <title>VizualizacijaPodataka_Projekt</title>
+    </head>
+
+
+    <header class="header">
+        <a href="https://elearning.pmfst.unist.hr/course/view.php?id=527" class="logo">Vizualizacija Podataka</a>
+        <input type="checkbox" id="check">
+        <label for="check" class="icons">
+            <i class='bx bx-menu' id="menu-ikona"></i>
+            <i class='bx bx-x' id="x-ikona"></i>
+        </label>
+
+        <nav class="navigacija">
+            <a href="https://www.ibm.com/docs/en/cognos-analytics/12.0.0?topic=samples-telco-customer-churn" style="--i:0">PODACI</a>
+            <a href="#" style="--i:1">PROJEKT</a>
+            <a href="https://maven-datasets.s3.amazonaws.com/Telecom+Customer+Churn/Telecom+Customer+Churn.zip" style="--i:2">PREUZIMANJE</a>
+        </nav>
+        
+    </header>
+
+
+    <body>
+        <div class="container">
+            <h1 class="naslov">Vizualizacija Podataka - Telekom</h1>
+        </div>
+
+        <div class="opis-podataka">
+            <h1 class="opis-naslov">Telco - customer churn</h1>
+            <p class="opis">Skup podataka o fiktivnoj telekomunikacijskoj kompaniji donosi uzbudljive uvide u ponašanje 
+                korisnika telekomunikacijskih usluga. 
+                Kroz ovaj skup podataka, istraživači dobivaju uvid u ključne aspekte 
+                koji utječu na odluku korisnika da promijene svog pružatelja usluga.
+                Analizom skupa podataka, istraživači mogu otkriti uzorke u odlascima korisnika.
+                Jedna od ključnih značajki ovog skupa podataka je njegova 
+                važnost za prilagođavanje marketinških strategija.
+                Razumijevanje razloga zbog kojih korisnici napuštaju pružatelja usluga omogućuje 
+                tvrtkama da poboljšaju kvalitetu usluge, poboljšaju korisničko iskustvo i prilagode
+                svoje ponude kako bi zadržale postojeće korisnike i privukle nove.</p>
+        </div>
+
+        <div class="motivi">
+            <ul class="slike">
+                <li id="prva"><img src="company.png" width="150px" height="150px"></li>
+                <li id="druga"><img src="group.png" width="150px" height="150px"></li>
+                <li id="treca"><img src="ca-state.png" width="150px" height="150px"></li>
+            </ul>
+            <ul class="opis">
+                <li id="prvi"><b>Telco</b></li>
+                <li id="drugi"><b>7043</b></li>
+                <li id="treci"><b>Kalifornija</b></li>
+            </ul>
+        </div>
+
+        <div class="viz">
+            <h1 class="viz-naslov">Vizualizacije</h1>
+        </div>
+        <div class="prvi_opis">
+            <h1 class="opis_v1">Osnovni podaci o korisnicima usluga</h1>
+            <p class="opis_tekst"><b>Na sljedećim grafovima prikazane su osnovne informacije o korisnicima usluga
+                telekomunikacijske kompanije. Prikazani su podaci vezani za dob , spol i bračni status korisnika.
+            </b></p>
+        </div>
+        <div class="prva_vizualizacija">    
+            <div class="osnovno" id="okvir"></div>
+            <div class="osnovno" id="okvir_2"></div>
+        </div>
+        <div class="drugi_opsi">
+            <h1 class="opis_v1">Geografski podaci korisnika</h1>
+            <p class="opis_tekst"><b>Sljedeći grafovi prikazuju podatke o gradovima u koji žive korisnici usluga telekomunikacijske firme.
+                Prvi graf prikazuje pet najvećih gradova i njihov udio u cjelokupnom
+                broj korisnika u odnosu na ostala mjesta gdje žive korisnici usluga , dok drugi graf prikazuje  deset gradova sa najvećim brojem korisnika.
+                Na trećem grafu prikazana je karta Savezne države Kalifornije gdje su iscrtane geografske kordinate korisnika usluga.
+            </b></p>
+        </div>
+        <div class="druga_vizualizacija">
+            <div class="geo" id="gradovi"></div>
+            <div id="mapa"></div>
+            <div id="legenda">
+                City: <span id="grad" class="info"></span><br>
+            </div>
+        </div>
+        <div class="treci_opis">
+            <h1 class="opis_v1">Podaci o uslugama korisnika</h1>
+            <p class="opis_tekst"><b>Na sljedećim grafikonu prikazane su informacije o uslugama koje su korisnicima dostupne u telekomunikacijskoj kompaniji i koliko ljudi te usluge koristi, a koliko ne.</b></p>
+        </div>
+        <div class="treca_vizualizacija">
+            <select id="metrike-select"></select>
+            <div id="usluge"></div>
+        </div>
+        <div class="cetvrti_opis">
+            <h1 class="opis_v1">Otkazivanje telekom usluga</h1>
+            <p class="opis_tekst"><b>U sljedećem dijelu prikazano je koliki dio građana je otazalo suradnju sa teleoperaterom,
+                potom su prikazani razlozi koje su naveli kao uzrok otkazivanja suradnje te u koju kategoriju ti razlozi spadaju.
+                Prikazani su podaci o tome koliko su dugo pojedini korisnici bili klijenti telekomunikacijske kompanije, potom
+                je prikazano koliko dio prihoda je kompanija izgubila zbog pojedine kategorije navedene kao razlog odlaska klijenta.
+            </b></p>
+        </div>
+        <div class="cetvrta_vizualizacija">
+            <div id="otkazivanje"></div>
+            <div id="otkazivanje_razlog"></div>
+            <div id="prihod"></div>
+        </div>
+        <div class="peti_opis">
+            <h1 class="opis_v1">Opis klijenata koji su napustili telekomunikacijsku firmu</h1>
+            <p class="opis_tekst"><b>U sljedećem dijelu prikazan je opis profila korisnika koji je napustio telekomunikacijsku kompaniju.
+            </b></p>
+        </div>
+        <div class="peta_vizualizacija">
+            <div id="okvir_11"></div>
+            <div id="okvir_22"></div>
+            <div id="okvir_44">
+                <select id="metrike-select-2"></select>
+            </div>
+            <div id="okvir_33"></div>
+        </div>
+        <script src="d3.js"></script>
+        <script src="countplot.js"></script>
+        <script src="marriedPlot.js"></script>
+        <script src="ageplot.js"></script>
+        <script src="cityCount.js"></script>
+        <script src="cityPie.js"></script>
+        <script src="geo.js"></script>
+        <script src="telecom_data.js"></script>
+        <script src="contract.js"></script>
+        <script src="churnPlot.js"></script>
+        <script src="churnReason.js"></script>
+        <script src="churnReasonPlot.js"></script>
+        <script src="tenure.js"></script>
+        <script src="revenue.js"></script>
+        <script src="osnovni_podaci.js"></script>
+    </body>
+
+    <footer>
+        <div>Vizualizacija Podataka</div>
+        <div>Prirodoslovno-Matematički Fakultet u Splitu</div>
+        <div>Autor: Marko Bonovil</div>
+      
+    </footer>
+
+</html>
