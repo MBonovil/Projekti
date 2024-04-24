@@ -3,7 +3,7 @@ async function crtajChurnReason() {
 
     // Filtriranje NaN vrijednosti
     const filteredData = data.filter(d => d['Churn Category'] && d['Churn Reason']);
-
+    //console.log(filteredData);
     // Stvaranje objekta koji grupira Churn Reason prema Churn Category
     const groupedData = {};
     filteredData.forEach(d => {
@@ -15,7 +15,7 @@ async function crtajChurnReason() {
         }
         groupedData[d['Churn Category']][d['Churn Reason']]++;
     });
-
+    //console.log(groupedData);
     // Konvertiranje podataka u oblik prikladan za crtanje grafikona
     const chartData = [];
     for (const category in groupedData) {
@@ -24,6 +24,7 @@ async function crtajChurnReason() {
             chartData.push({ 'Churn Category': category, 'Churn Reason': reason, 'Count': reasons[reason] });
         }
     }
+    //console.log(chartData);
 
     const margin = { top: 20, right: 30, bottom: 150, left: 70 };
     const width = 800 - margin.left - margin.right;
@@ -89,6 +90,20 @@ async function crtajChurnReason() {
             (height + margin.top + 120) + ")")
         .style("text-anchor", "middle")
         .text("Churn Reason");
+
+    svg.append("g")
+        .attr("class", "count-labels")
+        .selectAll("text")
+        .data(chartData)
+        .enter()
+        .append("text")
+        .text(d => d.Count)
+        .attr("x", d => x(d['Churn Reason']) + x.bandwidth() / 2)
+        .attr("y", d => y(d['Count']) - 5)
+        .attr("text-anchor", "middle")
+        .attr("fill","darkgray")
+        .style("font-size", "17px");
+    
 
     svg.selectAll(".legend")
         .data(Object.keys(groupedData))
